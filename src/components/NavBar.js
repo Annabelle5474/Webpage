@@ -91,8 +91,8 @@ export const NavBar = () => {
               {/* <a href="#">
                 <img src={navIcon2} alt="" />
               </a> */}
-              <a href="#">
-                <img src={navIcon3} alt="" />
+              <a href="https://github.com/Annabelle5474" target="_blank" rel="noopener noreferrer">
+                <img src={navIcon3} alt="GitHub Icon" />
               </a>
             </div>
             <button className="vvd" onClick={() => console.log("connect")}>
